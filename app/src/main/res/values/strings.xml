@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">android navigation drawer recyclerview</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_one">One</string>
+    <string name="nav_item_two">Two</string>
+    <string name="nav_item_three">Three</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_one</item>
+        <item>@string/nav_item_two</item>
+        <item>@string/nav_item_three</item>
+    </string-array>
+
+</resources>
